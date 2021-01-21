@@ -11,7 +11,7 @@ It is a full stack practice application with RESTful routing project and deploy 
 
 ### Client Server Architecture
 
-<img alt="flowChart" src="https://github.com/ja841014/EmployeeManagementSystem/blob/master/img/flowChart.png" width="400">
+<img alt="flowChart" src="https://github.com/ja841014/EmployeeManagementSystem/blob/master/img/flowChart.png" width="200">
 
 
 ### List Employees

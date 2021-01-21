@@ -5,7 +5,9 @@
 It is a full stack practice application with RESTful routing project and deploy on Heroku platform. This project using React as frontend, Spring boot and PostgreSQL as backend. user can add new employee into his employee list and can update, delete and show his employees.
 
 <a href="https://fast-retreat-80365.herokuapp.com/employees">To see the app in action</a>
-Note: Because it is deploy on free Heroku platform, it will have to wait until heroku wake up the server.
+<p>
+	Note: Because it is deploy on free Heroku platform, it will have to wait until heroku wake up the server.
+</p>
 
 ### Client Server Architecture
 
